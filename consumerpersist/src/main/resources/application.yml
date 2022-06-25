@@ -1,0 +1,8 @@
+## Spring DATASOURCE (DataSourceAutoConfiguration & DataSourceProperties)
+spring.datasource.url: jdbc:postgresql://localhost:5432/kafka_eg
+spring.datasource.username: kafka_eg
+spring.datasource.password: Meetbhatt97!
+
+spring.jpa.properties.hibernate.dialect: org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.hibernate.ddl-auto: none
+spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation: true

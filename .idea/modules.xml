@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumerlog/consumerlog.iml" filepath="$PROJECT_DIR$/consumerlog/consumerlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumerpersist/consumerpersist.iml" filepath="$PROJECT_DIR$/consumerpersist/consumerpersist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datalake.iml" filepath="$PROJECT_DIR$/datalake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producer/producer.iml" filepath="$PROJECT_DIR$/producer/producer.iml" />
+    </modules>
+  </component>
+</project>
